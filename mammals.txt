@@ -1,0 +1,8 @@
+snakes
+leopards
+lions
+bears
+tigers
+wolves
+cats
+dogs
